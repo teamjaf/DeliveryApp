@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "974459713717",
+    "firebase_url": "https://perok-acd69.firebaseio.com",
+    "project_id": "perok-acd69",
+    "storage_bucket": "perok-acd69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974459713717:android:754c285465f0aebb7466fc",
+        "android_client_info": {
+          "package_name": "com.bengalorb.prerok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974459713717-8tvtmdidigfrvqf47ii8mgmaudg8c31m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bengalorb.prerok",
+            "certificate_hash": "ee4d93dde18cba24b82204c1a069db892869e7ca"
+          }
+        },
+        {
+          "client_id": "974459713717-pc8vf1fnsc1gbmeps6fvqpodudto95lp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChDoU7kYT14qn9bba9eOnD1Bi1LJNS2bQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974459713717-pc8vf1fnsc1gbmeps6fvqpodudto95lp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

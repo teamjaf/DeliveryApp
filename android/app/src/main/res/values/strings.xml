@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prerok</string>
+    <string name="facebook_app_id">678062609578245</string>
+    <string name="fb_login_protocol_scheme">b72a2ab3240f062ecd99b1b6b547a482</string>
+
+</resources>
