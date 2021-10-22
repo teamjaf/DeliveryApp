@@ -1,4 +1,4 @@
-# prerok
+# Delivey Client App
 
 A new Flutter application.
 
